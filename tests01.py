@@ -10,7 +10,7 @@ class Testing(unittest.TestCase):
 
     def test_boolean(self):
         a = True
-        b = True
+        b = 3
         self.assertEqual(a, b)
 
 if __name__ == '__main__':
