@@ -3,7 +3,7 @@ python test driven development 01
 
 blah02
 
-<h2 align="center">The Uncompromising Code Formatter</h2>
+<h2 align="center">Python Test Driven Development, Continuous Integration and Best Practices</h2>
 
 <p align="center">
 <a href="https://travis-ci.org/ambv/black"><img alt="Build Status" src="https://travis-ci.org/ambv/black.svg?branch=master"></a>
