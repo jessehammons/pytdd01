@@ -7,6 +7,11 @@ class Testing(unittest.TestCase):
         b = "some"
         self.assertEqual(a, b)
 
+    def test_int(self):
+        a = 3
+        b = 3
+        self.assertEqual(a, b)
+
     def test_boolean(self):
         a = True
         b = True
